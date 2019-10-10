@@ -1,0 +1,3 @@
+Pawn Z-Length: 45mm, 537
+Bishop Z-Length: 60mm, 604
+Queen Z-Length: 70mm, 694
